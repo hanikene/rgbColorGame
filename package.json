@@ -4,7 +4,8 @@
   "description": "A game created with javascript, the aim is to match the rgb given with his adequat color.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Ikene Nassim Hani",
   "license": "MIT",
